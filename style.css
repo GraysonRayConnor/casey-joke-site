@@ -1,0 +1,21 @@
+html, body{
+    background: url(sponge-bg.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+h1{
+    color: red;
+    font-size: 50px;
+    background: black;
+    font-family: 'Akronim', cursive;
+    border-radius: 20px;
+    padding: 15px;
+    margin-bottom: 550px;
+}
